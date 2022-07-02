@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/location.jpg</file>
+        <file>res/campusShahe.png</file>
+        <file>res/campusShahe.jpg</file>
+        <file>res/campusBenbu.png</file>
+        <file>res/transport.png</file>
+        <file>res/transport1.png</file>
+        <file>res/classroom.jpeg</file>
+        <file>res/dorm.jpeg</file>
+        <file>res/mainscene.jpeg</file>
+        <file>res/main.JPG</file>
+        <file>res/benbuLogo.jpeg</file>
+        <file>res/shaheLogo.jpeg</file>
+        <file>res/shaheLogoo.jpeg</file>
+        <file>res/benbuLogo3.png</file>
+        <file>res/shaheLogo3.png</file>
+        <file>res/bus.png</file>
+        <file>res/benbuLogo4.jpeg</file>
+        <file>res/shaheLogo4.jpeg</file>
+        <file>res/benbuLogo4.png</file>
+        <file>res/shaheLogo4.png</file>
+    </qresource>
+</RCC>
